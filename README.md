@@ -2,7 +2,7 @@
 
 kukka は、SAP S/4HANA に対する 各 API の 命令様式に基づいて、API の命令文である SQL文 を自動生成・編集することができる、SAP-API開発者のためのツールです。    
 kukka は、SAP S/4HANA の "HANA" にちなんで、フィンランド語の"花"から命名されました。  
-kukka により、SAP S/4HANA の多岐複雑 な API ドキュメント の 理解にかかる時間と、開発ライフサイクルを短縮すうことができます。　　
+kukka により、SAP S/4HANA の多岐複雑 な API ドキュメント の 理解にかかる時間と、開発ライフサイクルを短縮することができます。　　
 
 ## kukkaのアーキテクチャ
 ![kukka_architecture](docs/kukka_architecture.drawio.png)  
